@@ -1,0 +1,5 @@
+sr is a small script to let you do search and replace from the command line against multiple files using regexp.
+sr provides colorized output akin to ack.
+
+Usage:
+sr dirname [files-regexp] search-regexp replace-string
